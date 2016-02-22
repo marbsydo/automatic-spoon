@@ -1,0 +1,12 @@
+# Vim swap file
+*.swp
+
+# SASS temporary files
+*.sass-cache
+*.scss.swp
+
+# Generated output
+webapp/www/*
+
+# Compressed output
+webapp.zip
